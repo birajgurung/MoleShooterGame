@@ -1,0 +1,10 @@
+C:\Users\bg_gr\source\repos\MoleShooter\MoleShooter\bin\Debug\MoleShooter.exe.config
+C:\Users\bg_gr\source\repos\MoleShooter\MoleShooter\bin\Debug\MoleShooter.exe
+C:\Users\bg_gr\source\repos\MoleShooter\MoleShooter\bin\Debug\MoleShooter.pdb
+C:\Users\bg_gr\source\repos\MoleShooter\MoleShooter\obj\Debug\MoleShooter.csprojAssemblyReference.cache
+C:\Users\bg_gr\source\repos\MoleShooter\MoleShooter\obj\Debug\MoleShooter.MoleShooter.resources
+C:\Users\bg_gr\source\repos\MoleShooter\MoleShooter\obj\Debug\MoleShooter.Properties.Resources.resources
+C:\Users\bg_gr\source\repos\MoleShooter\MoleShooter\obj\Debug\MoleShooter.csproj.GenerateResource.cache
+C:\Users\bg_gr\source\repos\MoleShooter\MoleShooter\obj\Debug\MoleShooter.csproj.CoreCompileInputs.cache
+C:\Users\bg_gr\source\repos\MoleShooter\MoleShooter\obj\Debug\MoleShooter.exe
+C:\Users\bg_gr\source\repos\MoleShooter\MoleShooter\obj\Debug\MoleShooter.pdb
